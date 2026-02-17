@@ -11,7 +11,7 @@ pip install git+https://github.com/y4fw/DebugLib.git
 ## Uso
 
 ```python
-from DebugLib import sucess, error, warn, info
+import DebugLib as debug
 
 sucess("Sistema iniciado")
 error("Falha ao conectar")
