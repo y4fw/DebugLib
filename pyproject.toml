@@ -1,0 +1,7 @@
+[project]
+name = "DebugLib"
+version = "1.0.0"
+description = "Logs coloridos para terminal"
+authors = [{name = "SeuNome"}]
+readme = "README.md"
+requires-python = ">=3.7"
